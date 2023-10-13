@@ -1,0 +1,129 @@
+/* start flexbox */
+.d-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.box-shadow {
+    box-shadow: 0 2px 10px 4px rgba(95, 95, 95, 0.2), 0 2px 10px 4px rgba(95, 95, 95, 0.2);
+}
+
+/* end position */
+
+
+/* start postion */
+.po-relative {
+    position: relative;
+}
+
+/* end position */
+
+
+/* start padding */
+.p-5 {
+    padding: 5px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.m-0 {
+    margin: 0px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+/* end padding */
+
+/* start background */
+.bg-white {
+    background-color: white;
+}
+
+/* end background */
+
+/* start border */
+.rounded-7 {
+    border-radius: 10px;
+}
+
+.rounded-top {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.rounded-bottom {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.rounded-half {
+    border-radius: 50%;
+}
+
+.outline {
+    outline: 2px solid white;
+    outline-offset: 7px;
+}
+
+/* end border */
+
+/* start font */
+.fs-normal {
+    font-size: 1.2em;
+}
+
+.color-gray {
+    color: gray;
+}
+
+.main-color {
+    color: #a16b59;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* end font */
+
+/* start list */
+.list-none {
+    list-style-type: none;
+}
+
+/* end list */
